@@ -34,5 +34,5 @@ C# item templates, project templates and code snippets for easy code creation.
 `Star` icon is made by [Freepik](http://www.freepik.com) from [Flaticon](https://www.flaticon.com/) is licensed by [Creative Commons BY 3.0](http://creativecommons.org/licenses/by/3.0/) 
 
 ## Marketplace
-- [Download](https://marketplace.visualstudio.com/items?itemName=bqstony.csharpextendedtemplates1) Visual Studio extension on Marketplace
-- [or get the old version](https://marketplace.visualstudio.com/items?itemName=bqstony.csharpextendedtemplates1)
+- [Download](https://marketplace.visualstudio.com/items?itemName=bqstony.CSharpExtendedTemplates) Visual Studio extension on Marketplace
+- [or get the old version](https://marketplace.visualstudio.com/items?itemName=bqstony.csharpitemtemplates1)
