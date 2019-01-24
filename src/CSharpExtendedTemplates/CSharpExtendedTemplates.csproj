@@ -47,49 +47,47 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Snippets\CSharpItemTemplatesPack\xUnitFact.snippet">
+    <Content Include="Snippets\CSharpExtendedTemplatesPack\xUnitFact.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <SubType>Designer</SubType>
     </Content>
-    <Content Include="Snippets\CSharpItemTemplatesPack\xUnitCtor.snippet">
+    <Content Include="Snippets\CSharpExtendedTemplatesPack\xUnitCtor.snippet">
       <SubType>Designer</SubType>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\CSharpItemTemplatesPack\xUnitTheory.snippet">
+    <Content Include="Snippets\CSharpExtendedTemplatesPack\xUnitTheory.snippet">
       <SubType>Designer</SubType>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\CSharpItemTemplatesPack\xBehaveScenario.snippet">
+    <Content Include="Snippets\CSharpExtendedTemplatesPack\xBehaveScenario.snippet">
       <SubType>Designer</SubType>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\CSharpItemTemplatesPack\xBehaveStep.snippet">
+    <Content Include="Snippets\CSharpExtendedTemplatesPack\xBehaveStep.snippet">
       <SubType>Designer</SubType>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\CSharpItemTemplatesPack\xBehaveStepCompact.snippet">
+    <Content Include="Snippets\CSharpExtendedTemplatesPack\xBehaveStepCompact.snippet">
       <SubType>Designer</SubType>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\CSharpItemTemplatesPack\xBehaveBackground.snippet">
+    <Content Include="Snippets\CSharpExtendedTemplatesPack\xBehaveBackground.snippet">
       <SubType>Designer</SubType>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="..\readme.md">
+    <Content Include="..\..\readme.md">
       <Link>readme.md</Link>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
+    <None Include="..\..\LICENSE">
+      <Link>LICENSE</Link>
+    </None>
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>
   </ItemGroup>
   <ItemGroup>
     <Content Include="icon_128.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      <IncludeInVSIX>true</IncludeInVSIX>
-    </Content>
-    <Content Include="index.html" />
-    <Content Include="LICENSE.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
@@ -105,7 +103,6 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="stylesheet.css" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ItemTemplates\CSharp\PublicClass\PublicClass.csproj">

@@ -2,4 +2,4 @@
 ; Languages: "Basic", "C/C++", "CSharp", "CSS", "HTML", "JavaScript", "SQL_SSDT", "XML"
 
 [$RootKey$\Languages\CodeExpansions\CSharp\Paths]
-"CSharpItemTemplatesPack"="$PackageFolder$\CSharpItemTemplatesPack"
+"CSharpExtendedTemplatesPack"="$PackageFolder$\CSharpExtendedTemplatesPack"

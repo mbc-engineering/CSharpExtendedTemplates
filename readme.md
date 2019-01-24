@@ -1,10 +1,7 @@
-# CSharp Item Templates
-
-## Why?
-I don't like to repeat the same modification over and over again
+# CSharp extended templates
 
 ## Description
-A Simple extension to handle default actions of file creation for a C# project.
+C# item templates, project templates and code snippets for easy code creation.
 
 ## Features
 
@@ -34,7 +31,7 @@ A Simple extension to handle default actions of file creation for a C# project.
 - support .Net standard projects
 
 ## Marketplace
-[Download](https://marketplace.visualstudio.com/items?itemName=bqstony.csharpitemtemplates1) Visual Studio extension on Marketplace
+[Download](https://marketplace.visualstudio.com/items?itemName=bqstony.csharpextendedtemplates1) Visual Studio extension on Marketplace
 
 ## credits
 `Star` icon is made by [Freepik](http://www.freepik.com) from [Flaticon](https://www.flaticon.com/) is licensed by [Creative Commons BY 3.0](http://creativecommons.org/licenses/by/3.0/) 
