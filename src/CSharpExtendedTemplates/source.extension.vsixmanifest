@@ -7,7 +7,7 @@
         <MoreInfo>https://github.com/bqstony/CSharpItemTemplates</MoreInfo>
         <License>LICENSE</License>
         <GettingStartedGuide>readme.md</GettingStartedGuide>
-        <ReleaseNotes>release-notes.md</ReleaseNotes>
+        <ReleaseNotes>https://github.com/mbc-engineering/CSharpExtendedTemplates/blob/master/changelog.md</ReleaseNotes>
         <Icon>icon_128.png</Icon>
         <PreviewImage>PreviewCSharpItemTemplates.png</PreviewImage>
         <Tags>c#,c# item template, template, project template, code snippet, xunit, xbehave, unit test</Tags>
