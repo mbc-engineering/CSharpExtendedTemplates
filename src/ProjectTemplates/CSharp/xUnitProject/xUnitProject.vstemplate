@@ -10,6 +10,7 @@
     <CreateNewFolder>true</CreateNewFolder>
     <DefaultName>xUnit.Test</DefaultName>
     <ProvideDefaultName>true</ProvideDefaultName>
+    <CreateInPlace>True</CreateInPlace>
   </TemplateData>
   <TemplateContent>
     <Project File="ProjectTemplate.csproj" ReplaceParameters="true">
