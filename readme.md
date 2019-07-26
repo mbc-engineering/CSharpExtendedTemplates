@@ -27,7 +27,7 @@ C# item templates, project templates and code snippets for easy code creation.
 ![preview image](https://github.com/mbc-engineering/CSharpExtendedTemplates/blob/master/src/CSharpExtendedTemplates/PreviewCSharpCodeSnippets.png?raw=true)
 
 ### Common
-- support VS2017 / (preview) VS2019
+- support VS2017 / VS2019
 - support .Net standard projects
 
 ## credits

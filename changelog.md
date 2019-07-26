@@ -1,9 +1,13 @@
 # Changelog
 
+## [0.5.0] - vNext
+### Added
+- VS 2019 Project Dialog Tag discovery
+
 ## [0.4.1] - 06.02.2019
 ### Fixed
-- Template file in xunit project template are now added
-- Release notes link now works in Visual Studio Extension browser 
+- Release note link in Extension Manager
+- XUnit Projekt template Unit test file wil now copied
 
 ## [0.4.0] - 24.01.2019
 ### Added
