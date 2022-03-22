@@ -12,13 +12,6 @@ namespace $rootnamespace$
 {
     public class $safeitemname$
     {
-        private readonly ITestOutputHelper _testOutput;
-
-        public $safeitemname$(ITestOutputHelper testOutput)
-        {
-            _testOutput = testOutput;
-        }
-
         [Fact]
         public void SomethingShouldBeDone()
         {

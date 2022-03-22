@@ -1,6 +1,17 @@
 # Changelog
 
-## [0.5.0] - vNext
+## [0.6.0] - 22.03.2022
+### Added
+- suport VS2022
+- support amd64
+- xunit Projekttemplate addet `PlatformTag` for Linux and macOS
+
+### Change
+- Remove xBehave templates
+- Default target moniker is now `net6.0`
+- xunit class has no ctor by default. Use `xUnitCtor` template to create it if needed
+
+## [0.5.0] - internal
 ### Added
 - VS 2019 Project Dialog Tag discovery
 

@@ -20,14 +20,11 @@ C# item templates, project templates and code snippets for easy code creation.
 - xUnit fact method -> `xUnitFact`
 - xUnit theory method -> `xUnitTheory`
 - xUnit ctor with ITestOutputHelper -> `xUnitCtor`
-- xBehave scenario method -> `xBehaveScenario`
-- xBehave background method -> `xBehaveBackground`
-- xBehave step -> `xBehaveStep` or `xBehaveStepCompact`
 
 ![preview image](https://github.com/mbc-engineering/CSharpExtendedTemplates/blob/master/src/CSharpExtendedTemplates/PreviewCSharpCodeSnippets.png?raw=true)
 
 ### Common
-- support VS2017 / VS2019
+- support VS2017 / VS2019 / VS2022
 - support .Net standard projects
 
 ## credits
@@ -35,4 +32,4 @@ C# item templates, project templates and code snippets for easy code creation.
 
 ## Marketplace
 - [Download](https://marketplace.visualstudio.com/items?itemName=bqstony.CSharpExtendedTemplates) Visual Studio extension on Marketplace
-- [or get the old version](https://marketplace.visualstudio.com/items?itemName=bqstony.csharpitemtemplates1)
+- [the old and depricated version](https://marketplace.visualstudio.com/items?itemName=bqstony.csharpitemtemplates1)
